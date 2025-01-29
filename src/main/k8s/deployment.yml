@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: spring-rag
-          image: totopoiuytreza//spring-rag:latest
+          image: totopoiuytreza/spring-rag:latest
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8080
