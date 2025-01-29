@@ -99,18 +99,4 @@ public class Document {
     public void setContent(String content) {
         this.content = content;
     }
-
-    @Override
-    public String toString() {
-        return "Document{" +
-                "id=" + id +
-                ", title='" + title + '\'' +
-                ", description='" + description + '\'' +
-                ", author='" + author + '\'' +
-                ", publisher='" + publisher + '\'' +
-                ", publishedDate='" + publishedDate + '\'' +
-                ", contentType='" + contentType + '\'' +
-                ", content='" + content + '\'' +
-                '}';
-    }
 }

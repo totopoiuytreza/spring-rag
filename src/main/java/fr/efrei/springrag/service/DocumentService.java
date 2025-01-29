@@ -2,7 +2,7 @@ package fr.efrei.springrag.service;
 
 import fr.efrei.springrag.domain.Document;
 import fr.efrei.springrag.repository.DocumentRepository;
-import fr.efrei.springrag.web.dto.DocumentDto;
+import fr.efrei.springrag.domain.dto.DocumentDto;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;

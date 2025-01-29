@@ -1,7 +1,7 @@
 package fr.efrei.springrag.web.controller;
 
 import fr.efrei.springrag.domain.Document;
-import fr.efrei.springrag.web.dto.DocumentDto;
+import fr.efrei.springrag.domain.dto.DocumentDto;
 import fr.efrei.springrag.service.DocumentService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

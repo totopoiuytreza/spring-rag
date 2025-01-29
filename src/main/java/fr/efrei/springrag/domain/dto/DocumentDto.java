@@ -1,4 +1,4 @@
-package fr.efrei.springrag.web.dto;
+package fr.efrei.springrag.domain.dto;
 
 /**
  * A DTO representing a document's metadata.
